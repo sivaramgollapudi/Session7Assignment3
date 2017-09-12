@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">S7A3 - Browse Image</string>
+    <string name="browse_image">Browse Gallary</string>
+    <string name="clear_image">Clear Image</string>
+</resources>
